@@ -1,0 +1,1 @@
+Sitemap: https://oddhyeon.github.io/jekyll-theme-yat/sitemap.xml
